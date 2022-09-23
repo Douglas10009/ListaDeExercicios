@@ -1,0 +1,6 @@
+Nome do integrante 1: Alef
+Idade do integrante 1: 18
+
+Nome do integrante 2: 
+Idade do integrante 2: 17
+
